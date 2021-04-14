@@ -1,0 +1,18 @@
+﻿  Cliente.cpp
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(43,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(42,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(83,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(82,13): warning C4101: 'fila': variable local sin referencia
+  ConexionBD.cpp
+  orientada_a_obj.cpp
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(43,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(42,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(83,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\orientada_a_obj\Cliente.h(82,13): warning C4101: 'fila': variable local sin referencia
+  Persona.cpp
+  Generando código
+  145 of 150 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  orientada_a_obj.vcxproj -> C:\Users\mutsu\OneDrive\Documentos\ORIENTADA OBJ\orientada_a_obj\x64\Release\orientada_a_obj.exe
